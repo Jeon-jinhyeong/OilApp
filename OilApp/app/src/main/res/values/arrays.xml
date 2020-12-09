@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="juyoo">
+        <item>휘발유</item>
+        <item>경유</item>
+        <item>고급휘발유</item>
+        <item>실내등유</item>
+        <item>자동차부탄</item>
+    </string-array>
+    <string-array name="order">
+        <item>거리순</item>
+        <item>가격순</item>
+    </string-array>
+    <string-array name="around">
+        <item>1Km</item>
+        <item>2Km</item>
+        <item>3Km</item>
+        <item>4Km</item>
+        <item>5Km</item>
+    </string-array>
+</resources>
